@@ -1,0 +1,133 @@
+.text-weight-bold {
+  font-weight: 700;
+}
+
+.text-weight-semibold {
+  font-weight: 600;
+}
+
+.text-weight-medium {
+  font-weight: 500;
+}
+
+.text-weight-normal {
+  font-weight: 400;
+}
+
+.text-weight-light {
+  font-weight: 300;
+}
+
+.text-line-xl {
+  line-height: 2;
+}
+
+.text-line-l {
+  line-height: 1.7;
+}
+
+.text-line-m {
+  line-height: 1.5;
+}
+
+.text-line-s {
+  line-height: 1.3;
+}
+
+.text-line-xs {
+  line-height: 1.2;
+}
+
+.text-line-none {
+  line-height: 1;
+}
+
+.text-space-xl {
+  letter-spacing: 0.05em;
+}
+
+.text-space-l {
+  letter-spacing: 0.025em;
+}
+
+.text-space-m {
+  letter-spacing: 0em;
+}
+
+.text-space-s {
+  letter-spacing: -0.015em;
+}
+
+.text-space-xs {
+  letter-spacing: -0.03em;
+}
+
+.text-style-italic {
+  font-style: italic;
+}
+
+.text-style-underline {
+  text-decoration: underline;
+}
+
+.text-style-deco-none {
+  text-decoration: none;
+}
+
+.text-style-uppercase {
+  text-transform: uppercase;
+}
+
+.text-style-capitalized {
+  text-transform: capitalize;
+}
+
+.text-style-lowercase {
+  text-transform: lowercase;
+}
+
+.text-align-left {
+  text-align: left;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+@media screen and (max-width: 991px) {
+  .text-align-t-left {
+    text-align: left;
+  }
+  .text-align-t-center {
+    text-align: center;
+  }
+  .text-align-t-right {
+    text-align: right;
+  }
+}
+@media screen and (max-width: 767px) {
+  .text-align-ml-left {
+    text-align: left;
+  }
+  .text-align-ml-center {
+    text-align: center;
+  }
+  .text-align-ml-right {
+    text-align: right;
+  }
+}
+@media screen and (max-width: 479px) {
+  .text-align-m-left {
+    text-align: left;
+  }
+  .text-align-m-center {
+    text-align: center;
+  }
+  .text-align-m-right {
+    text-align: right;
+  }
+}

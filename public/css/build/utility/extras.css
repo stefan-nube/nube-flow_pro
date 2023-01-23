@@ -1,0 +1,15 @@
+.display-inlineflex {
+  display: inline-flex;
+}
+
+.clickable-off {
+  pointer-events: none;
+}
+
+.clickable-on {
+  pointer-events: auto;
+}
+
+.margin-auto {
+  margin: 0 auto;
+}

@@ -1,0 +1,21 @@
+.hide {
+  display: none;
+}
+
+@media screen and (max-width: 991px) {
+  .hide-t {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .hide-ml {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .hide-m {
+    display: none;
+  }
+}

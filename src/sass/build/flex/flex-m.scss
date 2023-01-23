@@ -1,0 +1,37 @@
+@media screen and (max-width: 479px) {
+  .flex-direction-m-v {
+    flex-direction: column;
+  }
+  .flex-direction-m-h {
+    flex-direction: row;
+  }
+
+  .flex-align-m-start {
+    align-items: flex-start;
+  }
+  .flex-align-m-center {
+    align-items: center;
+  }
+  .flex-align-m-end {
+    align-items: flex-end;
+  }
+  .flex-align-m-stretch {
+    align-items: stretch;
+  }
+
+  .flex-justify-m-start {
+    justify-content: flex-start;
+  }
+  .flex-justify-m-center {
+    justify-content: center;
+  }
+  .flex-justify-m-end {
+    justify-content: flex-end;
+  }
+  .flex-justify-m-between {
+    justify-content: space-between;
+  }
+  .flex-justify-m-around {
+    justify-content: space-around;
+  }
+}

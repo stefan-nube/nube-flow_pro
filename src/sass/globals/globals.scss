@@ -1,0 +1,29 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Snippet makes all link elements listed below to inherit color from their parent */
+a,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+/* Snippet gets rid of margin on first and last element in any rich text*/
+.w-richtext > :first-child {
+  margin-top: 0;
+}
+.w-richtext > :last-child,
+.w-richtext ol li:last-child,
+.w-richtext ul li:last-child {
+  margin-bottom: 0;
+}
+
+/* Snippet makes all quote block inherit border color */
+blockquote {
+  border-color: currentColor !important;
+}

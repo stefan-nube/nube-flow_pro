@@ -1,0 +1,44 @@
+.icon-xs-xs {
+  display: flex;
+  height: 0.5em;
+  width: 0.5em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-s-s {
+  display: flex;
+  height: 0.85em;
+  width: 0.85em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-m-m {
+  display: flex;
+  height: 1em;
+  width: 1em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-l-l {
+  display: flex;
+  height: 1.25em;
+  width: 1.25em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-xl-xl {
+  display: flex;
+  height: 1.5em;
+  width: 1.5em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
